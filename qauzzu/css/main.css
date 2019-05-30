@@ -65,3 +65,19 @@
     min-width: height 240px;
   }
 }
+
+.main-header-inner{
+  background: url(../img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+  color: #fff;
+}
+
+.main-header-inner .showcase {
+  padding-top:100px;
+}
+
+.section-features{
+  
+}
